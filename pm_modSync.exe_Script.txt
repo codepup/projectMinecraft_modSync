@@ -1,0 +1,159 @@
+;The comment below contains SFX script commands
+
+Path=%appdata%\.minecraft\
+SavePath
+Overwrite=1
+Delete=mods
+Title=Project Minecraft: Mod Sync
+Text
+{
+[NEW] Version 2.1.1.0013
+
+
+Project Minecraft: Mod Sync v2.1.1.0013 - by craziematt
+
+New version adds:
+
+[NEW] Added a mod list, it links to its significant page. It updates server side. No updates are required to keep it updated!
+
+[NEW] Overhauled the adding server feature. Now adds directly into the game!
+
+[NEW] Added a photo gallery. 
+
+[FIX] Minor GUI Changes.
+
+[FIX] Optimized and cleaned up the code.
+
+[FIX] New version structure had issues differentiating.
+
+
+Mods:
+
+[No new mods added since version 1.1.0.]
+
+[1.1.0] Additional Pipes for Buildcraft v2.1.3 - by DaStormbringer, Kyprus, and Zeldo(original creator)
+
+[1.0.0] Equivalent Exchange v1.4.6.7
+
+[1.0.0] Balkon's Weapon Mod v8.6
+
+[1.0.0] Runic Dust Mod v0.6.1c
+
+[1.0.0] CraftGuide v1.5.0 + CraftGuideInv + BrewGuide
+
+[1.0.0] BuildCraft v2.2.14
+
+[1.0.0] Jammy Furniture Mod v3.6
+
+
+[OLD] Version 2.0.5.0013
+
+
+Project Minecraft: Mod Sync v2.0.5.0013 - by craziematt
+
+New version adds: 
+
+[NEW] Implemented Mozilla's 13.0.2 Gecko Engine.
+
+[FIX] Optimized and cleaned up the code.
+
+[FIX] Edited the version structure so that mod updates and program updates are differentiable.
+
+[FIX] The remember tab would close when the game is launched. Developed a workaround.
+
+[FIX] Successfully implemented the map with the introduction of the new browser engine.
+
+
+Mods:
+
+[No new mods added since version 1.1.0.]
+
+[1.1.0] Additional Pipes for Buildcraft v2.1.3 - by DaStormbringer, Kyprus, and Zeldo(original creator)
+
+[1.0.0] Equivalent Exchange v1.4.6.7
+
+[1.0.0] Balkon's Weapon Mod v8.6
+
+[1.0.0] Runic Dust Mod v0.6.1c
+
+[1.0.0] CraftGuide v1.5.0 + CraftGuideInv + BrewGuide
+
+[1.0.0] BuildCraft v2.2.14
+
+[1.0.0] Jammy Furniture Mod v3.6
+
+
+[OLD] Version 2.0.0
+
+
+Project Minecraft: Mod Sync v2.0.0 - by craziematt
+
+New version adds: 
+
+- launcher capabilities
+
+- server list
+
+- skin manager
+
+- a remember tab to add servers in-game from the server list
+
+- ability to view the map of your worlds (SSP & SMP)
+
+
+[OLD] Version 1.1.0
+
+
+Notes: Additional Pipes uses the F9 key. I'd recommend rebinding it because F9 is usually a common key.
+
+
+Mods:
+
+Additional Pipes for Buildcraft v2.1.3 - by DaStormbringer, Kyprus, and Zeldo(original creator)
+
+
+[OLD] Version 1.0.0
+
+
+Mods:
+
+Equivalent Exchange v1.4.6.7
+
+Balkon's Weapon Mod v8.6
+
+Runic Dust Mod v0.6.1c
+
+CraftGuide v1.5.0 + CraftGuideInv + BrewGuide
+
+BuildCraft v2.2.14
+
+Jammy Furniture Mod v3.6
+}
+License=Authors
+{
+Installer credits:
+
+craziematt/crazymatt
+
+
+[Version 2.1.1.0013]
+
+Project Minecraft: Mod Sync v2.1.1.0013 - by craziematt/crazymatt
+
+
+Mods:
+
+Additional Pipes for Buildcraft v2.1.3 - by DaStormbringer, Kyprus, and Zeldo(original creator)
+
+Equivalent Exchange v1.4.6.7 - by x3n0ph0b3 and Pahimar
+
+Balkon's Weapon Mod v8.6 - by BalkondeurAlpha
+
+Runic Dust Mod v0.6.1c - by billythegoat101
+
+CraftGuide v1.5.0 + CraftGuideInv + BrewGuide - by Uristqwerty
+
+BuildCraft v2.2.14 - by SpaceToad
+
+Jammy Furniture Mod v3.6 - by Jammy780
+}

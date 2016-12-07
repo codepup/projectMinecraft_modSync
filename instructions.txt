@@ -1,0 +1,19 @@
+Dear me,
+
+In case you forget how to do this I'll remind you:
+
+1. Edit the licenseInfo.txt and the installInfo.txt with the new mods and credits.
+
+2. Open pm_modSync.exe in this folder with winRAR.
+
+2. Add the new mods, edit the pm_modSync.version with the new version, and load the text files for both the license and comments.
+
+3. When you finish don't forget to reapply the image and icon.
+
+4. Finally the pm_modSync_version.txt is the master version. All clients update depending on the version of that file. Make its contents match the contents pm_modSync.version file.
+
+5. After all that the clients should recognize the new version and download and install the new pm_modSync.exe file.
+
+Note: Oh and don't alter any paths specifically thee ones (unless you plan on modifying the program):
+https://dl.dropbox.com/u/21350311/minecraft/projectMinecraft_modSync/pm_modSync_version.txt (the version)
+https://dl.dropbox.com/u/21350311/minecraft/projectMinecraft_modSync/pm_modSync.exe (the patch)
